@@ -5,7 +5,9 @@
 //newHeader.innerHTML = "Flatiron School is the champion!";
 //newHeader.className = "victory";
 
+
+
 document.querySelector('main').remove()
-const newHeader = document.createElement("h1")
+const newHeader = document.createElement('h1');
 newHeader.id = "victory"
-newHeader.innerHTML = "Rob is the champion!";
+newHeader.innerHTML = "Rob is the champion"
